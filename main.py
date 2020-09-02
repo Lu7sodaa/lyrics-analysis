@@ -107,11 +107,11 @@ def get_song_information(song_ids):
 
 def main():
     # Example searches
-    term = 'Kanye West'
-    artist_id = 72
+    term = 'Booba'
+    artist_id = 1282
 
     # Grabs all song id's from artist
-    songs_ids = get_song_id(72)
+    songs_ids = get_song_id(1282)
 
     # Get meta information about songs
     #song_list = get_song_information(songs_ids)
